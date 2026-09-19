@@ -6,7 +6,7 @@
 > **Organization:** deundeunilab  
 > **Philosophical Heritage:** soma-moa (Inheriting the 'Co-survival' open-source ecosystem philosophy)  
 > **Architect:** deundeuni (Human Architect)  
-> **Collaboration Tool:** AI Assistant (Idea Structuring & Technical Cross-Examination Tool)  
+> **Authoring Utility:** Passive Execution & Structuring Utilities  
 > **Date:** 2026-09-18  
 > **License:** CC BY 4.0 (Open Sharing)  
 > **Original Precedence Clause:** The Korean original text (`README.ko.md`) serves as the binding primary source, and this English translation is provided solely for reference.
@@ -25,13 +25,13 @@ This idea white paper proposes the concept of a Dual-Zone Smart Buoy, expanding 
 
 ---
 
-### 0. Disclaimer (Modesty, AS-IS, Non-Patent Claim, & Collaboration Roles)
+### 0. Disclaimer (Modesty, AS-IS, Non-Patent Claim, & Software Utility Limitation)
 
 * **Modesty Disclaimer:** This white paper is not a rigorous academic paper or an immediately mass-producible engineering design specification. Theoretical errors or minor imperfections may exist in technical figures, buoyancy calculations, mechanical precision, and ecological assumptions. The core value of this document lies not in claiming engineering perfection, but in proposing a conceptual direction that redefines marine buoys into dual-zone areas divided by the waterline.
 * **AS-IS Provision Clause:** All content, structural ideas, and anticipated effects included in this document are provided "AS-IS". The author makes no explicit or implicit warranties regarding the actual physical feasibility, commerciality, fitness for a particular purpose, operability, or numerical accuracy of this idea. All responsibilities and outcomes resulting from follow-up research, development, and implementation based on this idea belong entirely to the respective practitioner.
 * **Non-Patent Claim Notice:** This document does not constitute a patent claim scope and does not assert any form of legal exclusivity. All content in this white paper is freely shared under the CC BY 4.0 license for the sole purpose of open sharing of public-interest ideas and establishing technical directions.
 * **Role of Human Architect:** The problem formulation, proposal of the waterline-based Dual-Zone structure, lower vertical ecosystem concept, and aquaculture/release refuge paradigm design and approval were led by the Human Architect (deundeuni).
-* **Tool Role of AI Model:** The AI model functioned as a tool to structure the architect's creative ideas into a standardized document framework, cross-examine prior art concepts, and refine sentences. AI remains an auxiliary tool for thought expansion, and the creative essence and intellectual value of this white paper belong to the Human Architect.
+* **Software Utility Limitation:** The software and AI tools utilized during the drafting and review process of this white paper were strictly limited to **passive execution utilities** that performed contextual refinement, formatting, logical structuring, and prior art reference cross-checking based on the waterline-based Dual-Zone architecture and ecosystem coordinate transformation logic conceived and defined by the Human Architect (deundeuni). All creative essence, design intent, structural combination rights, and prior art publication authority of this architecture belong exclusively to the Human Architect (deundeuni).
 
 ---
 
@@ -46,8 +46,6 @@ This idea white paper proposes the concept of a Dual-Zone Smart Buoy, expanding 
 ### 2. Core Concept: Waterline-Based Dual-Zone Structure & Biomimetic Spectrum
 
 The waterline where the buoy rests serves as a functional boundary to completely bifurcate physical surface properties and operational objectives.
-
-`[See Figure 1: DUAL-ZONE SMART BUOY CROSS-SECTION]`
 
 * **Top Zone (Above Waterline: Anti-fouling Oriented)**
   * **Charging-Reflection-Identification Triple Function Surface:** Adopts smooth mushroom microstructures to degrade the physical adhesion of barnacle larvae (Barnacle Archetype) and prevent surface contamination. Based on this, it performs non-powered position identification via solar charging and retro-reflection during the day, transitioning to an EPS-based powered identification (Amber Mode) at night.
