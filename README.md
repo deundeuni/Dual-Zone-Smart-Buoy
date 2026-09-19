@@ -16,12 +16,12 @@
 ### Abstract
 
 **[English Abstract]**  
-This idea white paper proposes the concept of a Dual-Zone Smart Buoy, expanding the role of marine buoys from mere navigational aids (survival coordinates) to ecological habitats (ecosystem coordinates). Divided by the waterline, the Top Zone utilizes a mushroom microstructure surface and adheres to IALA standards to prevent barnacle fouling for navigation safety. Conversely, the Bottom Zone incorporates artificial reef surface treatments to intentionally encourage the settlement of barnacles, shellfish, and seaweed, forming a 5-tier vertical ecosystem. This paper aims not to claim engineering perfection or legal exclusivity, but to offer a direction for future sustainable marine infrastructure that coexists with ocean ecosystems.
+This idea white paper proposes the concept of a Dual-Zone Smart Buoy, expanding the role of marine buoys from mere navigational aids (survival coordinates) to ecological habitats (ecosystem coordinates). Divided by the waterline, the Top Zone utilizes a mushroom microstructure surface and adheres to IALA standards to prevent barnacle fouling for navigation safety. Conversely, the Bottom Zone incorporates artificial reef surface treatments to intentionally encourage the settlement of barnacles, shellfish, and seaweed, forming a 5-tier vertical ecosystem. Furthermore, the Top Zone features a Charging-Reflection-Identification triple-function surface and defines an Amber-based EPS mode as an emergency power system to mitigate light pollution for the bottom ecosystem. This paper aims not to claim engineering perfection or legal exclusivity, but to offer a direction for future sustainable marine infrastructure that coexists with ocean ecosystems.
 
 **[Korean Summary / 국문 요약]**  
-본 아이디어 백서는 해양 부표를 단순한 항로 표지(생존 좌표)에서 해양 생물 서식지(생태계 좌표)로 확장하기 위한 Dual-Zone Smart Buoy 개념을 제안한다. 수선(Waterline)을 기준으로 상부(Top Zone)는 버섯 모양 마이크로 구조 및 IALA 규격을 적용해 따개비 부착을 방지하여 항해 안전을 확보하고, 하부(Bottom Zone)는 인공 어초 표면 처리를 통해 따개비, 조개, 해초류의 부착을 유도함으로써 5층 입체 생태계를 조성한다. 본 제안은 공학적 완벽성이나 법적 독점권 주장이 아닌, 해양 인공 구조물이 해양 생태계와 상생하는 미래가치와 기술적 가능성의 방향성을 제시하는 데 목적이 있다.
+본 아이디어 백서는 해양 부표를 단순한 항로 표지(생존 좌표)에서 해양 생물 서식지(생태계 좌표)로 확장하기 위한 Dual-Zone Smart Buoy 개념을 제안한다. 수선(Waterline)을 기준으로 상부(Top Zone)는 버섯 모양 마이크로 구조 및 IALA 규격을 적용해 따개비 부착을 방지하여 항해 안전을 확보하고, 하부(Bottom Zone)는 인공 어초 표면 처리를 통해 따개비, 조개, 해초류의 부착을 유도함으로써 5층 입체 생태계를 조성한다. 또한 Top Zone은 충전-반사-식별 삼중 기능 표면을 지향하며, 하부 생태계 광공해 방지를 위해 호박등(Amber) 기반 EPS 모드 및 비상전력시스템을 정의한다. 본 제안은 공학적 완벽성이나 법적 독점권 주장이 아닌, 해양 인공 구조물이 해양 생태계와 상생하는 미래가치와 기술적 가능성의 방향성을 제시하는 데 목적이 있다.
 
-**Keywords:** Dual-Zone, Mushroom Microstructure, Artificial Reef, Eco-buoy, Sea Ranching, Barnacle Archetype, Seaweed Archetype, Biomimetic Spectrum
+**Keywords:** Dual-Zone, Mushroom Microstructure, Artificial Reef, Eco-buoy, Sea Ranching, Barnacle Archetype, Seaweed Archetype, Biomimetic Spectrum, Amber Mode, Light Pollution Mitigation, EPS, Seawater Battery
 
 ---
 
@@ -50,8 +50,8 @@ The waterline where the buoy rests serves as a functional boundary to completely
 `[See Figure 1: DUAL-ZONE SMART BUOY CROSS-SECTION]`
 
 * **Top Zone (Above Waterline: Anti-fouling Oriented)**
-  * **Surface Property:** Smooth Mushroom Microstructure Surface application oriented. Mushroom-shaped micro-pillars reduce physical adhesion even when barnacle larvae (Barnacle Archetype) secrete bio-cement substances.
-  * **Identification & Compliance:** Strives to adhere to IALA buoy coloring and marking standards, equipped with red/yellow visual markings, LED night beacons, and Radar Reflectors.
+  * **Charging-Reflection-Identification Triple Function Surface:** Adopts smooth mushroom microstructures to degrade the physical adhesion of barnacle larvae (Barnacle Archetype) and prevent surface contamination. Based on this, it performs non-powered position identification via solar charging and retro-reflection during the day, transitioning to an EPS-based powered identification (Amber Mode) at night.
+  * **Identification & Compliance:** Strives to adhere to IALA buoy coloring and marking standards, equipped with visual markings (red/yellow), Radar Reflectors, and night-beacon LEDs fitted with downward light shields to prevent underwater light leakage.
   * **Purpose:** Maintaining a clean and lightweight surface to serve as survival coordinates providing clear positional reference to navigators.
 
 * **Bottom Zone (Below Waterline: Artificial Reef & Dynamic Ballast Oriented / Independent Auxiliary Entity)**
@@ -67,8 +67,14 @@ The waterline where the buoy rests serves as a functional boundary to completely
   * **Matrix 3 (Top Clean / Bottom Reef):** Forward hybrid type (*Main concept of this white paper*: Navigational buoys, aquaculture infrastructure)
   * **Matrix 4 (Top Reef / Bottom Clean):** Inverted hybrid type (*Inverted structure*: Top facilitates seaweed settlement for surface nutrient removal and photosynthesis filtration; Bottom maintains a biofouling-free surface for underwater precision sensor & sonar protection)
 
-* **Internal and Mooring Modules**
-  * **Internal Assembly:** Sensor module (water temperature, salinity, water quality metrics), battery, and small-scale energy harvesting modules.
+* **Internal and Mooring Modules (Ecosystem Coexistence Energy Design)**
+  * **Main Power (Minimalist Photosynthetic Charging Module):** Adopts transparent flexible solar film and small wave energy harvesting on the Top Zone for daytime sensor and data logging energy independence. Mushroom microstructures prevent surface contamination to maintain solar transmission and reflection efficiency.
+  * **Auxiliary Power (Emergency Power System - EPS):** Standby power dedicated to emergency status lights, operating only when charging is impossible (night, low-light, severe weather). It maintains a charged state and does not discharge under normal conditions. Strives to utilize low-toxicity, minimum-capacity seawater batteries or solid-state batteries to minimize environmental pollution upon marine leakage.
+  * **Amber Mode (Ecological Light Pollution Prevention):** The Top Zone LED aims for an Amber Mode to protect the nocturnal darkness of the 5-tier ecosystem below.
+    * **Color:** Prohibition of white and short-wavelength blue light; strictly utilizes amber (590–620nm wavelength).
+    * **Intensity:** Minimum luminous intensity satisfying only the IALA minimum visible distance requirements.
+    * **Direction:** Employs a Full-cutoff shield to prevent light leakage below the water surface, restricting visibility strictly to the upper horizontal direction.
+    * **Flashing:** Prohibits continuous illumination. Adopts an intermittent flashing mechanism (e.g., 1 flash per 10-second cycle) to guarantee at least 9 seconds of darkness, thereby protecting marine life sleep cycles and circadian rhythms.
   * **Mooring Section:** Mooring chain connected to seabed anchors.
 
 ---
@@ -107,6 +113,7 @@ This concept strives to extend beyond basic buoys into integration with marine i
   * Need for cost-effective mass production processes for top-side mushroom microstructures.
   * Need for regulatory and technical compliance review regarding existing navigational aid standards such as IALA.
   * **Inverted Buoyancy & Weight Balance Design Orientation:** Reinterpreting lower biofouling not as a mere weight burden, but as a 'natural self-ballasting and hydrodynamic damping' mechanism. Lower center-of-gravity displacement via attached shellfish enhances metacenter restoring moment ($GM$) against wind loads on the top zone, while seaweed drag cushions dynamic wave oscillations. However, this reinterpretation remains a conceptual proposal prior to empirical validation, and to prevent submersion due to excessive biofouling, early buoyancy design guidelines strive to limit `Expected Maximum Bottom Attached Weight = Under 30% of total reserve buoyancy`.
+  * **Ecological Light Pollution Minimization Design Orientation:** The Amber Mode strives to satisfy IALA minimum visibility distance criteria with minimum luminous intensity and a 10-second interval single flash, employing a Full-cutoff shielding design principle to block light leakage below the water surface completely.
 
 * **Future Value as an Idea White Paper**
   * Rather than immediate commercial product manufacturing, this white paper holds value in recording the possibility of a paradigm shift fusing eco-buoys, artificial reefs, aquaculture data infrastructure, and marine ecosystem restoration.
@@ -123,7 +130,9 @@ This concept strives to extend beyond basic buoys into integration with marine i
 * **Self-Verification & Testing Referenced Standards:**
   Recommended domestic and international voluntary reference standards for future empirical studies and inspection of this white paper concept include:
   * **Navigational Markings & Visual/Structural Standards:** IALA Guideline G1006 (Plastic Buoys Guidelines), IALA Standard 1020 (AtoN Design and Visual Signalling)
-  * **Eco-Friendliness & Physical Material Testing:** MOF Korea Eco-Friendly Buoy Certification Standards, KS C IEC 62321 (Environmental toxicity testing for organotin compounds, heavy metals, and flame retardants), KS F 2274 (Accelerated weathering surface degradation test for 2,000 hours)
+  * **Marine Wildlife Light Pollution Prevention Guidelines:** FWC Wildlife Lighting Criteria (Strict principles enforcing wavelengths over 560nm, full-cutoff shielding, and minimum intensity for sea turtle protection), Australian National Light Pollution Guidelines for Wildlife (Recommending Amber 590-620nm and exclusion of blue light)
+  * **Marine Battery Environmental Characteristics:** Application concept of low-toxicity infinite electrolyte based on Seawater Battery technology
+  * **Eco-Friendliness & Physical Material Testing:** MOF Korea Eco-Friendly Buoy Certification Standards, KS C IEC 62321 (Environmental toxicity testing for organotin compounds, heavy metals, and flame retardants), KS F 2274 (Accelerated weathering surface degradation test)
   * **Buoyancy & Durability Testing:** Impact resistance (Drop weight test), thermal fatigue (15-cycle temperature fluctuation test), pressure resistance, and rope attachment eyelet load stability (5,000N tension test)
   * **Anti-Fouling & Bio-Settlement Evaluation Standards:** ASTM D3623 (Standard Test Method for Testing Antifouling Panels in Shallow Submersion), ISO 13073 / ISO 19073 (Ships and marine technology — Anti-fouling systems on ships)
   * **Seawater Corrosion Resistance Standards:** ISO 12944 (Corrosion protection of steel structures by protective paint systems)
