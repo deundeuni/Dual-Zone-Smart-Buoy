@@ -16,12 +16,12 @@
 ### Abstract
 
 **[국문 요약]**  
-본 아이디어 백서는 해양 부표를 단순한 항로 표지(생존 좌표)에서 해양 생물 서식지(생태계 좌표)로 확장하기 위한 Dual-Zone Smart Buoy 개념을 제안한다. 수선(Waterline)을 기준으로 상부(Top Zone)는 버섯 모양 마이크로 구조 및 IALA 규격을 적용해 따개비 부착을 방지하여 항해 안전을 확보하고, 하부(Bottom Zone)는 인공 어초 표면 처리를 통해 따개비, 조개, 해초류의 부착을 유도함으로써 5층 입체 생태계를 조성한다. 본 제안은 공학적 완벽성이나 법적 독점권 주장이 아닌, 해양 인공 구조물이 해양 생태계와 상생하는 미래가치와 기술적 가능성의 방향성을 제시하는 데 목적이 있다.
+본 아이디어 백서는 해양 부표를 단순한 항로 표지(생존 좌표)에서 해양 생물 서식지(생태계 좌표)로 확장하기 위한 Dual-Zone Smart Buoy 개념을 제안한다. 수선(Waterline)을 기준으로 상부(Top Zone)는 버섯 모양 마이크로 구조 및 IALA 규격을 적용해 따개비 부착을 방지하여 항해 안전을 확보하고, 하부(Bottom Zone)는 인공 어초 표면 처리를 통해 따개비, 조개, 해초류의 부착을 유도함으로써 5층 입체 생태계를 조성한다. 또한 Top Zone은 충전-반사-식별 삼중 기능 표면을 지향하며, 하부 생태계 광공해 방지를 위해 호박등(Amber) 기반 EPS 모드 및 비상전력시스템을 정의한다. 본 제안은 공학적 완벽성이나 법적 독점권 주장이 아닌, 해양 인공 구조물이 해양 생태계와 상생하는 미래가치와 기술적 가능성의 방향성을 제시하는 데 목적이 있다.
 
 **[English Abstract]**  
-This idea white paper proposes the concept of a Dual-Zone Smart Buoy, expanding the role of marine buoys from mere navigational aids (survival coordinates) to ecological habitats (ecosystem coordinates). Divided by the waterline, the Top Zone utilizes a mushroom microstructure surface and adheres to IALA standards to prevent barnacle fouling for navigation safety. Conversely, the Bottom Zone incorporates artificial reef surface treatments to intentionally encourage the settlement of barnacles, shellfish, and seaweed, forming a 5-tier vertical ecosystem. This paper aims not to claim engineering perfection or legal exclusivity, but to offer a direction for future sustainable marine infrastructure that coexists with ocean ecosystems.
+This idea white paper proposes the concept of a Dual-Zone Smart Buoy, expanding the role of marine buoys from mere navigational aids (survival coordinates) to ecological habitats (ecosystem coordinates). Divided by the waterline, the Top Zone utilizes a mushroom microstructure surface and adheres to IALA standards to prevent barnacle fouling for navigation safety. Conversely, the Bottom Zone incorporates artificial reef surface treatments to intentionally encourage the settlement of barnacles, shellfish, and seaweed, forming a 5-tier vertical ecosystem. Furthermore, the Top Zone features a Charging-Reflection-Identification triple-function surface and defines an Amber-based EPS mode as an emergency power system to mitigate light pollution for the bottom ecosystem. This paper aims not to claim engineering perfection or legal exclusivity, but to offer a direction for future sustainable marine infrastructure that coexists with ocean ecosystems.
 
-**Keywords:** Dual-Zone, Mushroom Microstructure, Artificial Reef, Eco-buoy, Sea Ranching, Barnacle Archetype, Seaweed Archetype, Biomimetic Spectrum
+**Keywords:** Dual-Zone, Mushroom Microstructure, Artificial Reef, Eco-buoy, Sea Ranching, Barnacle Archetype, Seaweed Archetype, Biomimetic Spectrum, Amber Mode, Light Pollution Mitigation, EPS, Seawater Battery
 
 ---
 
@@ -50,8 +50,8 @@ This idea white paper proposes the concept of a Dual-Zone Smart Buoy, expanding 
 `[그림 1 참조: DUAL-ZONE SMART BUOY CROSS-SECTION]`
 
 * **Top Zone (수선 위 구역: Anti-fouling 지향)**
-  * **표면 특성:** Smooth Mushroom Microstructure Surface 적용 지향. 버섯 모양의 마이크로 기둥 구조를 형성하여 따개비 유충(Barnacle Archetype)이 접착 시멘트 물질을 분비하더라도 물리적 접착력이 저하되도록 유도함.
-  * **식별 및 규격:** IALA(국제항로표지협회) 부표 도장 및 표지 규격 준수를 지향하며, 적색/황색 등 시각적 표지, 야간 식별용 LED 비콘, 선박 레이더 탐지용 Radar Reflector 탑재.
+  * **충전-반사-식별 삼중 기능 표면 (Triple-Function Surface):** Smooth Mushroom Microstructure를 적용하여 따개비 유충(Barnacle Archetype)의 물리적 접착력을 저하시키고 표면 오염을 방지한다. 이를 바탕으로 주간에는 태양광 충전 및 역반사를 통한 무전원 위치 식별을, 야간에는 비상전력시스템(EPS) 기반 유전원 위치 식별로 전환한다.
+  * **식별 및 규격:** IALA(국제항로표지협회) 규격 준수를 지향하며, 시각적 도장(적색/황색), 선박 레이더 탐지용 Radar Reflector, 그리고 수면 하부 빛샘을 차단하는 차광 갓이 적용된 야간 식별용 LED 비콘을 탑재한다.
   * **목적:** 깨끗하고 가벼운 표면 상태를 유지함으로써 어선 및 항해사에게 명확한 위치 정보를 제공하는 생존 좌표 기능 수행.
 
 * **Bottom Zone (수선 아래 구역: Artificial Reef & Dynamic Ballast 지향 / 독립 생태 보조체)**
@@ -67,8 +67,14 @@ This idea white paper proposes the concept of a Dual-Zone Smart Buoy, expanding 
   * **Matrix 3 (Top Clean / Bottom Reef):** 정방향 하이브리드 (*본 백서의 메인 구상*: 항로 부표, 양식 인프라)
   * **Matrix 4 (Top Reef / Bottom Clean):** 역방향 하이브리드 (*역구조*: Top은 해조류 정착을 통한 표층 영양염 제거 및 광합성 정화, Bottom은 무생물 표면 유지로 수중 정밀 센서 및 소나 오염 방지)
 
-* **내부 및 계류 모듈**
-  * **내부 구성:** 센서 모듈(수온, 염도, 수질 등 측정), 배터리 및 소형 에너지 하베스팅 모듈.
+* **내부 및 계류 모듈 (생태계 공존형 에너지 설계)**
+  * **주전원 (최소화 광합성 충전 모듈):** Top Zone에 투명 플렉시블 태양광 필름과 소형 파랑 에너지 하베스팅을 적용하여 주간 센서 및 데이터 로깅 전력을 자립함. Mushroom 미세구조가 표면 오염을 방지하여 태양광 투과 및 반사 효율을 유지함.
+  * **보조전원 (비상전력시스템 - EPS):** 야간, 저조도, 악천후 등 충전 불가 시에만 동작하는 비상 상태등 전용 예비 전원. 평상시에는 충전 상태를 유지하며 방전하지 않음. 해양 유출 시 환경오염을 최소화하기 위해 해수 배터리(Seawater Battery) 또는 전고체 기반의 최소 용량·저독성 타입을 지향함.
+  * **호박등(Amber) 모드 (생태계 광공해 방지):** Top Zone LED는 하부 5층 생태계의 야간 암흑 보호를 위해 호박등 모드를 지향함.
+    * **색:** 백색 및 청색 단파장 금지, 호박색(Amber, 590∼620nm 파장대)만 사용.
+    * **밝기:** IALA 규정 상 최소 시인 거리만을 만족하는 최소 광도.
+    * **방향:** 수면 하부로의 빛샘을 방지하는 하방 차광 갓(Full-cutoff Shield)을 적용하여, 상부 수평 방향으로만 식별 가능하도록 제어.
+    * **점멸:** 상시 점등을 금지하고, 10초 주기 1회 점멸(Intermittent) 방식 등을 적용하여 최소 9초의 암흑을 보장함으로써 해양 생물의 수면 및 생체리듬을 보호.
   * **하부 계류:** 해저 앵커와 연결되는 계류 체인(Mooring Chain).
 
 ---
@@ -107,6 +113,7 @@ This idea white paper proposes the concept of a Dual-Zone Smart Buoy, expanding 
   * 상부 버섯 모양 마이크로 구조(Mushroom Structure)의 경제성 있는 대량생산 공정 확보 필요.
   * 국제항로표지협회(IALA) 등 기존 항로 표지 규격과의 법적·기술적 정합성 검토 필요.
   * **역발상 부력·무게 밸런스 설계 지향:** 하부 생물 부착을 단순한 중량 증가 장애가 아닌 '자연적 하부 벨러스트(Self-Ballasting) 및 유체 감쇄기(Hydrodynamic Damping)'로 재해석함. 하부 패류 부착에 따른 무게중심 하강으로 상부 풍압 모멘트에 대한 복원력($GM$)을 강화하고, 하부 해조류의 유체 저항을 통해 파도에 의한 부표 동적 흔들림을 완화함. 단, 본 재해석은 실증 실험 이전의 개념적 제안이며, 과도한 생물 부착으로 인한 침몰을 방지하기 위해 `Bottom 부착 예상 최대 중량 = 전체 예비부력의 30% 이내`로 제한되도록 초기 부력 설계 가이드라인 정립을 지향함.
+  * **생태계 광공해 최소화 설계 지향:** 호박등 모드는 IALA 최소 시인 거리 기준을 만족하는 최소 광도 및 10초 주기 1회 점멸을 지향하며, 수면 하부로의 빛 유출을 원천 차단하기 위해 Full-cutoff 차광 설계를 원칙으로 함.
 
 * **백서로서의 미래가치**
   * 본 백서는 당장의 상용 제품 생산보다는 친환경 부표, 인공 어초, 양식 데이터 인프라, 해양 생태 복원 기술을 융합하는 패러다임 전환의 가능성을 기록하는 데 의의가 있다.
@@ -123,6 +130,8 @@ This idea white paper proposes the concept of a Dual-Zone Smart Buoy, expanding 
 * **자체검수 및 자율 검증 인용 표준 (Self-Verification & Testing Standards):**
   본 백서의 개념을 후속 실증 연구 및 제작 검수에 적용할 시 권장되는 국내외 자율 참조 표준 명세는 다음과 같다.
   * **해양 표지 및 시각/구조 규격:** IALA Guideline G1006 (Plastic Buoys Guidelines), IALA Standard 1020 (AtoN Design and Visual Signalling)
+  * **해양 야생동물 광공해 방지(Light Pollution) 가이드라인:** FWC Wildlife Lighting Criteria (바다거북 보호를 위한 파장 560nm 이상, Full-cutoff 차광, 최소 광도 강제 원칙), 호주 국가 해양 야생동물 광공해 방지 가이드라인 (Amber 590~620nm 권장 및 청색광 배제)
+  * **해양 배터리 환경성:** 해수 전지(Seawater Battery) 기반 저독성 무한 전해질 적용 개념
   * **친환경성 및 물리적 자재 시험:** 대한민국 해양수산부 「친환경 부표 인증기준」(어장관리법 관련 규정), KS C IEC 62321 (유기주석화합물 및 중금속/난연제 환경유해성 시험), KS F 2274 (건축용 합성수지재의 촉진 노출 시험 방법)
   * **부력 및 내구성 시험:** 내충격성(낙하추 시험), 열피로도(15 cycle 승온/감온 시험), 내압 및 로프 결속고리 하중안정성(5,000N 인장 시험)
   * **방오 및 부착 성능 평가 표준:** ASTM D3623 (Standard Test Method for Testing Antifouling Panels in Shallow Submersion), ISO 13073 / ISO 19073 (Ships and marine technology — Anti-fouling systems on ships)
