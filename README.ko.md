@@ -6,7 +6,7 @@
 > **소속 조직:** deundeunilab  
 > **철학적 계보:** soma-moa ('함께생존' 오픈소스 생태계 철학 계승)  
 > **설계자:** deundeuni (Human Architect)  
-> **협업 도구:** AI Assistant (Idea Structuring & Technical Cross-Examination Tool)  
+> **작성 유틸리티:** Passive Execution & Structuring Utilities (수동적 실행 및 구조화 도구)  
 > **날짜:** 2026-09-18  
 > **라이선스:** CC BY 4.0 (Open Sharing)  
 > **원안 우선 조항:** 대한민국어 원문(`README.ko.md`)이 기준 원본이며, 타 언어 번역본(`README.md` 등)은 단순 참고용으로 취급함.
@@ -25,13 +25,13 @@ This idea white paper proposes the concept of a Dual-Zone Smart Buoy, expanding 
 
 ---
 
-### 0. Disclaimer (면책, 겸양고지, AS-IS 고지 및 협업 역할 정립)
+### 0. Disclaimer (면책, 겸양고지, AS-IS 고지 및 소프트웨어 활용 범위)
 
 * **겸양고지 (Modesty Disclaimer):** 본 백서는 정밀한 학술 논문이나 즉각 양산 가능한 수준의 공학적 설계 명세서가 아니다. 기술적 수치, 부력 계산, 역학적 정밀도, 생태학적 가정 등에 미비점이나 이론적 오차가 존재할 수 있다. 본 문서의 핵심 가치는 공학적 완벽성의 주장에 있는 것이 아니라, 해양 부표를 수선 기준 이원화 구역으로 재정의하는 개념적 방향성을 제시함에 있다.
 * **AS-IS 제공 고지 (As-Is Clause):** 본 문서에 수록된 모든 내용, 구조적 아이디어, 예상 효과는 현상 그대로("AS-IS") 제공된다. 저작자는 본 아이디어의 실제 물리적 구현 가능성, 상용성, 특정 목적에의 적합성, 작동성 및 수치적 정확성에 대해 어떠한 명시적·묵시적 보증도 하지 않는다. 본 아이디어를 바탕으로 수행되는 후속 연구, 개발 및 구현에 따른 모든 책임과 결과는 해당 수행자에게 귀속된다.
 * **특허 청구 미해당 고지:** 본 문서는 특허 청구 범위가 아니며, 어떠한 형태의 법적 독점권도 주장하지 않는다. 본 백서의 모든 내용은 순수한 공익적 아이디어 개방 및 기술적 방향성 제시를 목적으로 CC BY 4.0 라이선스 하에 자유롭게 공유된다.
 * **설계자(Human Architect)의 역할:** 본 아이디어의 문제의식 발상, 수선(Waterline) 기준 Dual-Zone 구조 제안, 하부 입체 생태계 및 양식·방류 연계 패러다임 구상, 백서의 최종 방향성 수립과 내용 승인은 인간 설계자(deundeuni)에 의해 주도되었다.
-* **AI 모델(AI Tool)의 도구적 역할:** AI 모델은 설계자의 독창적 아이디어를 정형화된 문서 체계로 구조화하고, 관련 선행기술 개념과의 대조 검토, 백서 양식에 맞춘 논리적 전개 및 문장 다듬기를 지원하는 도구(Tool)로서 기능하였다. AI는 어디까지나 사고 확장 및 검증을 보조하는 수단이며, 본 백서가 갖는 창의적 본질과 지적 가치는 인간 설계자에게 귀속된다.
+* **소프트웨어 및 AI 유틸리티 활용에 관한 명시 (Software Utility Limitation):** 본 백서 작성 및 검토 과정에서 활용된 소프트웨어 및 AI 도구는 설계자(deundeuni)가 구상하고 정의한 수선(Waterline) 기준 Dual-Zone 독자 아키텍처와 생태계 좌표 전환 논리를 바탕으로 문맥 정제, 백서 포맷팅, 논리적 구조화 및 선행기술 참조 대조를 수행한 **수동적 실행 유틸리티(Passive Execution Utility)**에 국한된다. 본 아키텍처의 모든 창의적 본질, 설계 의도, 구조적 결합권 및 선행기술 공개 권한은 전적으로 인간 설계자(deundeuni)에게 귀속된다.
 
 ---
 
@@ -46,8 +46,6 @@ This idea white paper proposes the concept of a Dual-Zone Smart Buoy, expanding 
 ### 2. 핵심 개념: 수선(Waterline) 기준 Dual-Zone 구조 및 생체모사 스펙트럼
 
 부표가 위치하는 수선(Waterline)을 경계로 물리적 표면 특성과 목적을 완전히 이원화한다.
-
-`[그림 1 참조: DUAL-ZONE SMART BUOY CROSS-SECTION]`
 
 * **Top Zone (수선 위 구역: Anti-fouling 지향)**
   * **충전-반사-식별 삼중 기능 표면 (Triple-Function Surface):** Smooth Mushroom Microstructure를 적용하여 따개비 유충(Barnacle Archetype)의 물리적 접착력을 저하시키고 표면 오염을 방지한다. 이를 바탕으로 주간에는 태양광 충전 및 역반사를 통한 무전원 위치 식별을, 야간에는 비상전력시스템(EPS) 기반 유전원 위치 식별로 전환한다.
