@@ -21,7 +21,7 @@
 **[English Abstract]**  
 This idea white paper proposes the concept of a Dual-Zone Smart Buoy, expanding the role of marine buoys from mere navigational aids (survival coordinates) to ecological habitats (ecosystem coordinates). Divided by the waterline, the Top Zone utilizes a mushroom microstructure surface and adheres to IALA standards to prevent barnacle fouling for navigation safety. Conversely, the Bottom Zone incorporates artificial reef surface treatments to intentionally encourage the settlement of barnacles, shellfish, and seaweed, forming a 5-tier vertical ecosystem. This paper aims not to claim engineering perfection or legal exclusivity, but to offer a direction for future sustainable marine infrastructure that coexists with ocean ecosystems.
 
-**Keywords:** Dual-Zone, Mushroom Microstructure, Artificial Reef, Eco-buoy, Sea Ranching
+**Keywords:** Dual-Zone, Mushroom Microstructure, Artificial Reef, Eco-buoy, Sea Ranching, Barnacle Archetype, Seaweed Archetype, Biomimetic Spectrum
 
 ---
 
@@ -43,21 +43,29 @@ This idea white paper proposes the concept of a Dual-Zone Smart Buoy, expanding 
 
 ---
 
-### 2. 핵심 개념: 수선(Waterline) 기준 Dual-Zone 구조
+### 2. 핵심 개념: 수선(Waterline) 기준 Dual-Zone 구조 및 생체모사 스펙트럼
 
 부표가 위치하는 수선(Waterline)을 경계로 물리적 표면 특성과 목적을 완전히 이원화한다.
 
 `[그림 1 참조: DUAL-ZONE SMART BUOY CROSS-SECTION]`
 
 * **Top Zone (수선 위 구역: Anti-fouling 지향)**
-  * **표면 특성:** Smooth Mushroom Microstructure Surface 적용 지향. 버섯 모양의 마이크로 기둥 구조를 형성하여 따개비, 홍합 등의 유충이 접착 시멘트 물질을 분비하더라도 물리적 접착력이 저하되도록 유도함.
+  * **표면 특성:** Smooth Mushroom Microstructure Surface 적용 지향. 버섯 모양의 마이크로 기둥 구조를 형성하여 따개비 유충(Barnacle Archetype)이 접착 시멘트 물질을 분비하더라도 물리적 접착력이 저하되도록 유도함.
   * **식별 및 규격:** IALA(국제항로표지협회) 부표 도장 및 표지 규격 준수를 지향하며, 적색/황색 등 시각적 표지, 야간 식별용 LED 비콘, 선박 레이더 탐지용 Radar Reflector 탑재.
   * **목적:** 깨끗하고 가벼운 표면 상태를 유지함으로써 어선 및 항해사에게 명확한 위치 정보를 제공하는 생존 좌표 기능 수행.
 
-* **Bottom Zone (수선 아래 구역: Artificial Reef & Dynamic Ballast 지향)**
+* **Bottom Zone (수선 아래 구역: Artificial Reef & Dynamic Ballast 지향 / 독립 생태 보조체)**
   * **표면 특성:** 따개비, 조개류, 해조류 포자가 용이하게 정착할 수 있도록 미세 요철 및 공극을 형성한 표면 처리 지향.
+  * **독립 생태 보조체(Independent Auxiliary Entity) 정체성:** Bottom Zone은 부표 본체에 단순 종속된 부체 구조가 아니라, 자력/기계식 착탈 클램핑(Magnetic/Mechanical Quick-Release Clamping) 및 계류 체인(Mooring Chain)으로 결합·분리·교체가 가능한 독립된 생태 보조 모듈로 취급함. 이를 통해 수확, 청소, 모듈 교체 시 수평적 이앙 및 모듈화 유연성을 확보함.
   * **생태 및 구조 기능:** 생물 부착을 인위적으로 유도하여 부표 하부를 소형 인공 어초(Artificial Reef)로 전환함과 동시에, 하부 부착 생물의 중량을 자연적 하부 벨러스트(Self-Ballasting)로 활용하여 전체 무게중심을 하강시킴.
-  * **목적:** 소형 갑각류, 치어, 해초류 등이 서식할 수 있는 생태계 좌표 기능 수행 및 파랑에 대한 동적 복원성 확보.
+  * **목적:** 소형 갑각류, 치어, 해초류(Seaweed Archetype) 등이 서식할 수 있는 생태계 좌표 기능 수행 및 파랑에 대한 동적 복원성 확보.
+
+* **모듈형 생체모사 4-Matrix 스펙트럼 (Biomimetic Spectrum)**
+  해역의 목적과 환경 조건에 맞춰 적용 가능한 표면 제어 조합 매트릭스를 정의한다.
+  * **Matrix 1 (Top Clean / Bottom Clean):** 전면 방오형 (고속 선박 항로, 군사 표지)
+  * **Matrix 2 (Top Reef / Bottom Reef):** 전면 생태유도형 (인공 어초 전용, 바다숲 조성 해역)
+  * **Matrix 3 (Top Clean / Bottom Reef):** 정방향 하이브리드 (*본 백서의 메인 구상*: 항로 부표, 양식 인프라)
+  * **Matrix 4 (Top Reef / Bottom Clean):** 역방향 하이브리드 (*역구조*: Top은 해조류 정착을 통한 표층 영양염 제거 및 광합성 정화, Bottom은 무생물 표면 유지로 수중 정밀 센서 및 소나 오염 방지)
 
 * **내부 및 계류 모듈**
   * **내부 구성:** 센서 모듈(수온, 염도, 수질 등 측정), 배터리 및 소형 에너지 하베스팅 모듈.
@@ -69,10 +77,10 @@ This idea white paper proposes the concept of a Dual-Zone Smart Buoy, expanding 
 
 부표의 하부 구역(Bottom Zone)은 바다 사막화가 진행되는 해역에서 입체적인 5층 생태계 아파트 역할을 수행하도록 구상된다.
 
-* **1층 (기초 기주층):** 따개비, 담치 등 고착성 생물이 정착하여 단단한 생물학적 외벽 기반 형성 (예: 따개비 — 고착기질 역할).
+* **1층 (기초 기주층):** 따개비(Barnacle Archetype), 담치 등 고착성 생물이 정착하여 단단한 생물학적 외벽 기반 형성 (예: 따개비 — 고착기질 역할).
 * **2층 (입체 외벽층):** 조개류 및 굴 군집이 성장하면서 다공성 입체 구조를 형성하고 수질 정화에 기여 (예: 굴·담치 — 여과 섭식을 통한 수질정화 및 은신처 제공).
 * **3층 (동적 입주층):** 형성된 공극 사이로 저서성 소형 생물군 입주 (예: 게·새우 — 저서성 갑각류의 먹이망 형성).
-* **4층 (식생 환경층):** 계류 체인 및 하부 표면에 해조류 포자가 정착하여 광합성 및 산소 공급 수행 (예: 미역·파래 — 식생 환경 조성 및 산소공급).
+* **4층 (식생 환경층):** 계류 체인 및 하부 표면에 해조류(Seaweed Archetype) 포자가 정착하여 광합성 및 산소 공급 수행 (예: 미역·파래 — 식생 환경 조성 및 산소공급).
 * **5층 (보육원층):** 해초 숲과 생물군집 주변에 포식자를 피할 수 있는 치어 피난처 형성 (예: 우럭·도미 치어 — 상위 포식자 회피 및 보육 공간).
 
 ---
@@ -106,11 +114,19 @@ This idea white paper proposes the concept of a Dual-Zone Smart Buoy, expanding 
 
 ---
 
-### 6. 관련 선행기술 대조 및 차별점
+### 6. 관련 선행기술 대조 및 자체검수 인용 표준
 
-* **예비적 참고 고지:** 본 장에 기술된 선행 연구 및 특허 관련 정보는 아이디어 구상 과정에서 참조한 예비적 인용이다. 이는 정밀한 특허 법률 분석을 거친 완전한 대조군이 아니며, 본 백서는 법적 독점권을 주장하지 않는다.
+* **예비적 참고 고지:** 본 장에 기술된 선행 연구, 특허 정보 및 자체검수 참조 표준 정보는 아이디어 구상 과정에서 참조한 예비적 인용이다. 이는 정밀한 특허 법률 분석을 거친 완전한 대조군이 아니며, 본 백서는 법적 독점권을 주장하지 않는다.
 
 * **자연계 선례 (Natural Precedent):** 고래류(Cetacea) 피부에 따개비가 부착하는 현상은 생물학적으로 편리공생(Commensalism)에 해당하며, 대형 숙주가 소형 부착생물을 치명적 위협으로 인지하지 않고 경미한 부담을 감내하며 공존하는 자연계의 실제 관찰 사례이다. 본 백서의 Bottom Zone 설계는 이러한 자연계의 관용적 공존 방식에서 착안하였다.
+
+* **자체검수 및 자율 검증 인용 표준 (Self-Verification & Testing Standards):**
+  본 백서의 개념을 후속 실증 연구 및 제작 검수에 적용할 시 권장되는 국내외 자율 참조 표준 명세는 다음과 같다.
+  * **해양 표지 및 시각/구조 규격:** IALA Guideline G1006 (Plastic Buoys Guidelines), IALA Standard 1020 (AtoN Design and Visual Signalling)
+  * **친환경성 및 물리적 자재 시험:** 대한민국 해양수산부 「친환경 부표 인증기준」(어장관리법 관련 규정), KS C IEC 62321 (유기주석화합물 및 중금속/난연제 환경유해성 시험), KS F 2274 (건축용 합성수지재의 촉진 노출 시험 방법)
+  * **부력 및 내구성 시험:** 내충격성(낙하추 시험), 열피로도(15 cycle 승온/감온 시험), 내압 및 로프 결속고리 하중안정성(5,000N 인장 시험)
+  * **방오 및 부착 성능 평가 표준:** ASTM D3623 (Standard Test Method for Testing Antifouling Panels in Shallow Submersion), ISO 13073 / ISO 19073 (Ships and marine technology — Anti-fouling systems on ships)
+  * **해수 내식성 평가 표준:** ISO 12944 (Corrosion protection of steel structures by protective paint systems)
 
 * **기존 선행기술 예시**
   * **Anti-fouling 마이크로 구조:** 독일 Kiel 대학교 연구, 미 해군 NOFOUL 프로젝트 등 미세 구조 기반 부착 방지 기술 존재.
@@ -118,7 +134,7 @@ This idea white paper proposes the concept of a Dual-Zone Smart Buoy, expanding 
   * **생분해성 소재 부표:** 공개특허 `KR20180083718A` (친환경 생분해성 부표) 등 소재 관점의 기술 존재.
 
 * **본 아이디어의 핵심 차별성**
-  * 기존 기술들이 '부착 방지' 또는 '어초 결합' 중 단일 목적만을 수행하거나 단순 물리적 결합에 그친 것과 달리, 본 아이디어는 **수선(Waterline)을 명확한 기능 경계로 설정**하여 상부는 생존 좌표로서 완벽한 깨끗함을 지향하고, 하부는 생태계 좌표로서 생물 부착을 적극 유도하는 **Dual-Zone 통합 메커니즘**을 구성한다는 점에서 독자적 개념 차별성을 가진다.
+  * 기존 기술들이 '부착 방지' 또는 '어초 결합' 중 단일 목적만을 수행하거나 단순 물리적 결합에 그친 것과 달리, 본 아이디어는 **수선(Waterline)을 명확한 기능 경계로 설정**하여 상부는 생존 좌표로서 완벽한 깨끗함을 지향하고, 하부는 생태계 좌표(독립 보조체)로서 생물 부착을 적극 유도하는 **Dual-Zone 통합 메커니즘** 및 **4-Matrix 스펙트럼**을 구성한다는 점에서 독자적 개념 차별성을 가진다.
 
 ---
 
