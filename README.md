@@ -4,7 +4,7 @@
 - **Definition:** A research record presenting future-oriented possibilities and directions while accepting potential technical errors, lighter than formal academic papers or patent specification claims.
 - **Purpose:** Sharing a new perspective on artificial marine structures and providing seeds of discussion for subsequent researchers.
 - **Conceiver & Organizer:** deundeuni (Human Organizer)
-- **Authoring Utility:** Passive Execution & Structuring Utilities
+- **Authoring Tools:** General-purpose generative AI tools (thinking-expansion aid, research and citation, drafting, structuring)
 - **Date:** 2026-09-18
 - **Revision:** 2026-10-15 — Distinction of Matrix 4 application types (4a/4b), Sections 4.3–4.5 (Seed Boat concept, small-scale-first purpose, phased test pathways & water body types), Section 5 tasks, Section 6 prior literature added (Authoring Entity: Conceiver & Organizer)
 - **License:** CC BY 4.0 (Open Sharing)
@@ -49,9 +49,9 @@ This idea white paper proposes the concept of a Dual-Zone Smart Buoy, expanding 
 
 **Non-Patent Claim Notice:** This document does not constitute patent claims and asserts no form of legal exclusivity. All contents of this white paper are shared freely under the CC BY 4.0 license for the sole purpose of open-source idea sharing and technical direction setting.
 
-**Role of Conceiver & Organizer:** Problem identification, proposal of the waterline-based Dual-Zone structure, conceptualization of the lower multi-tiered ecosystem and aquaculture/release linkages, 4b (Seed Boat) expansion direction, white paper framing, content structuring, and final approval were spearheaded by the human conceiver & organizer (deundeuni).
+**Role of Conceiver & Organizer:** The conceiver & organizer (deundeuni), a human, originated the problem identification, proposed the waterline-based Dual-Zone structure, and conceived the lower multi-tiered ecosystem and aquaculture/release linkages. The 4b (Seed Boat) expansion direction was developed by the conceiver & organizer while using conversation with AI tools as a means of expanding their own thinking. The conceiver & organizer also designed the document structure and writing rules (including the disclosure items and the principle of citing prior art and literature), decided what to include or exclude, and gave final approval.
 
-**Software Utility Limitation:** Software and AI tools utilized during the authoring and review process functioned strictly as **Passive Execution Utilities** for text refinement, formatting, logical structuring, and prior art comparison based on the waterline Dual-Zone architecture and ecosystem coordinate shift conceptualized by the human conceiver & organizer (deundeuni). Authorial intent, structural organization, prior art disclosure, and document approval remain entirely with the human conceiver & organizer (deundeuni).
+**Software Utility Limitation:** AI tools were used as a means of expanding the thinking of the conceiver & organizer (deundeuni): based on that thinking, they were used to search for and cite existing prior art, papers, and patents, and to draft and structure the text into this document. The conceiver & organizer refined sentences directly where needed, revised the material whenever ideas were added or their thinking changed, and corrected exaggerations or logical errors by asking multiple AI tools to review it after each revision. Items that could not be confirmed are marked "needs verification". Decisions on inclusion, final approval, and responsibility rest with the conceiver & organizer.
 
 ---
 
@@ -246,7 +246,7 @@ Within the search scope at the time of authoring, no single publication or paten
 
 - Securing cost-effective mass production processes for top-zone mushroom microstructures.
 - Reviewing legal and technical alignment with international navigation standards (IALA).
-- **Reinterpretation of Buoyancy and Weight Balance —** Reinterpreting lower biological attachment not as a simple weight liability, but as "natural lower ballast (Self-Ballasting) and hydrodynamic damping." Weight addition below lowers the center of gravity, enhancing metacenter height (GM) and righting moments against wind roll, while seaweed drag attenuates dynamic wave tossing. However, this reinterpretation remains a conceptual proposal prior to empirical validation; initial buoyancy guidelines aim to establish a guideline limiting maximum anticipated bottom growth weight to within 30% of total reserve buoyancy to prevent sinking.
+- **Reinterpretation of Buoyancy and Weight Balance —** Reinterpreting lower biological attachment not as a simple weight liability, but as "natural lower ballast (Self-Ballasting) and hydrodynamic damping." Weight addition below lowers the center of gravity, enhancing metacenter height (GM) and righting moments against wind roll, while seaweed drag attenuates dynamic wave tossing. However, this reinterpretation remains a conceptual proposal prior to empirical validation; initial buoyancy design aims to establish a guideline limiting maximum anticipated bottom growth weight to within 30% of total reserve buoyancy to prevent sinking.
 - **Ecosystem Light Pollution Mitigation Design —** Amber mode aims for minimal luminous intensity satisfying IALA minimum visibility requirements and 1 flash per 10-second cycle, mandating full-cutoff shielding to eliminate downward light spillage.
 
 ### 4b (Seed Boat) Follow-Up Verification Tasks
