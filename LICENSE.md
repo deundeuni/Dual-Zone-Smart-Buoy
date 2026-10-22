@@ -1,6 +1,6 @@
 Creative Commons Attribution 4.0 International Public License
 
-Copyright (c) 2026 deundeuni (deundeunilab)
+Copyright (c) 2026 deundeuni
 
 =======================================================================
 DISCLAIMER & NON-PATENT CLAIM NOTICE
